@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PracRecyclerShared</string>
+    <string name="action_settings">Propiedades</string>
+    <string name="sp_color_bar">Barra_color</string>
+
+    <string name="titulo1">Buscar Libro</string>
+    <string name="titulo2">Detalle Libro</string>
+    <string name="instrucciones">Ingrese el nombre del libro para buscar: </string>
+    <string name="textoBoton">Buscar Libro</string>
+    <string name="resultados">Libros encontrados:</string>
+    <string name="inputHint">Título del Libro</string>
+
+    <string name="textoadicional">Datos adicionales:</string>
+    <string name="textovacio">Vacio</string>
+
+    <string name="descripcion">Descripcion:</string>
+
+</resources>
